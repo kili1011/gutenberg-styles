@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Fancy Quote
+ * Plugin Name: Gutenberg Styles
  */
 
 
