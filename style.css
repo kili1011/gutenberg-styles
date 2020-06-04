@@ -1,0 +1,9 @@
+@media screen and (min-width: 61.5625em) {
+    .is-style-single-image img.below-entry-meta{
+        max-width:100%!important;
+        margin-left:0!important;
+    }
+}
+
+
+
